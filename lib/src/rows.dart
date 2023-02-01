@@ -39,7 +39,7 @@ const List<List> _keyRows = [
     'j',
     'k',
     'l',
-    ';',
+    '!',
     '\'',
   ],
   // Row 4
